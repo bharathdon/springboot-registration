@@ -1,0 +1,166 @@
+src/main/java/com/abc/SpringbootRegistrationApplication.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/abc/SpringbootRegistrationApplication.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/abc/SpringbootRegistrationApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/SpringbootRegistrationApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/SpringbootRegistrationApplication.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'builder' is not assigned and could be declared final
+src/main/java/com/abc/SpringbootRegistrationApplication.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'builder' is not assigned and could be declared final
+src/main/java/com/abc/SpringbootRegistrationApplication.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/SpringbootRegistrationApplication.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/SpringbootRegistrationApplication.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/abc/SpringbootRegistrationApplication.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/abc/model/LoginPageDTO.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/model/LoginPageDTO.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/model/LoginPageDTO.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/LoginPageDTO.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/LoginPageDTO.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/LoginPageDTO.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/model/User.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/model/User.java:17:	ShortClassName:	ShortClassName: Avoid short class names like User
+src/main/java/com/abc/model/User.java:17:	ShortClassName:	ShortClassName: Avoid short class names like User
+src/main/java/com/abc/model/User.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/abc/model/User.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/abc/model/User.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:31:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'enabled'
+src/main/java/com/abc/model/User.java:31:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'enabled'
+src/main/java/com/abc/model/User.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/model/User.java:32:	UnusedAssignment:	UnusedAssignment: The field initializer for 'role' is never used (overwritten on line 39)
+src/main/java/com/abc/model/User.java:32:	UnusedAssignment:	UnusedAssignment: The field initializer for 'role' is never used (overwritten on line 39)
+src/main/java/com/abc/model/User.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/model/User.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'firstName' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'lastName' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/abc/model/User.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/abc/repository/UserRepository.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/repository/UserRepository.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/repository/UserRepository.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:19:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/abc/repository/UserRepository.java:19:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/abc/repository/UserRepository.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmail': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmail': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:22:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/abc/repository/UserRepository.java:22:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/abc/repository/UserRepository.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmails': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmails': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByPassword': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByPassword': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:27:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllUsers': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:27:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllUsers': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/repository/UserRepository.java:32:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateStatus': the method is declared in an interface type
+src/main/java/com/abc/repository/UserRepository.java:32:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateStatus': the method is declared in an interface type
+src/main/java/com/abc/security/UserSecurityConfig.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/abc/security/UserSecurityConfig.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/abc/security/UserSecurityConfig.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/security/UserSecurityConfig.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/security/UserSecurityConfig.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/abc/security/UserSecurityConfig.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:16:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/abc/security/UserSecurityConfig.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/security/UserSecurityConfig.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/abc/service/UserService.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/abc/service/UserService.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/service/UserService.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/abc/service/UserService.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/abc/service/UserService.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/abc/service/UserService.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/service/UserService.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/service/UserService.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/abc/service/UserService.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/abc/service/UserService.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/service/UserService.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/service/UserService.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/abc/service/UserService.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/abc/service/UserService.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/service/UserService.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/abc/service/UserService.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'findByEmail' could be declared final
+src/main/java/com/abc/service/UserService.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'findByEmail' could be declared final
+src/main/java/com/abc/service/UserService.java:39:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/abc/service/UserService.java:39:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/abc/service/UserService.java:49:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:49:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'to' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'to' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like to
+src/main/java/com/abc/service/UserService.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like to
+src/main/java/com/abc/service/UserService.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mimeMessage' could be declared final
+src/main/java/com/abc/service/UserService.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mimeMessage' could be declared final
+src/main/java/com/abc/service/UserService.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mimeMessageHelper' could be declared final
+src/main/java/com/abc/service/UserService.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mimeMessageHelper' could be declared final
+src/main/java/com/abc/service/UserService.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:69:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:77:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:77:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/abc/service/UserService.java:77:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/abc/service/UserService.java:77:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/abc/SpringbootRegistrationApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
